@@ -1,4 +1,4 @@
-﻿namespace mydns;
+﻿namespace cambiadns;
 
 using System;
 using System.Diagnostics;
